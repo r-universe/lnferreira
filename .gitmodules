@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ts2net"]
+	path = ts2net
+	url = https://github.com/lnferreira/ts2net
+	shallow = true
+	registered = true
